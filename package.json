@@ -1,0 +1,11 @@
+{
+  "name": "util_scripts",
+  "version": "1.0.0",
+  "description": "Convert JSON to CSV file",
+  "main": "script.js",
+  "author": "Gaurav Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.2.1"
+  }
+}
